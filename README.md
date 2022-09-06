@@ -1,2 +1,2 @@
-# wellsfargo
+# wells-fargo
 education purpose
